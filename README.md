@@ -1,10 +1,12 @@
-# 💬 IChat - Real-Time Chat Application
 
-Welcome to **IChat** — a sleek, real-time chat app where users can connect instantly, create accounts, and enjoy a smooth, fun chatting experience!
+Hello Guys!
 
 ![IChat Banner](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-21.jpg)
 
+
+# 💬 IChat - Real-Time Chat Application
 ---
+Welcome to **IChat** — a sleek, real-time chat app where users can connect instantly, create accounts, and enjoy a smooth, fun chatting experience!
 
 ## 🚀 Features
 
