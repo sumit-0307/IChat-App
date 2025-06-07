@@ -14,8 +14,8 @@ Welcome to **IChat** — a sleek, real-time chat app where users can connect ins
 - 🧑‍🤝‍🧑 **Real-time Messaging** – Powered by WebSockets (Socket.IO)
 - 💻 **Modern UI** – Responsive design with React & TailwindCSS
 - 🪪 **User Profiles** – View profile pictures & display names
-- 🌙 **Dark Mode Support** – Because vibes matter
-- 💥 **Instant Delivery** – Messages appear without page reload
+- 🌙 **Multiple Theme Support** – Because vibes matter
+- 💥 **Instant Delivery** – Messages appear without page reload using socket.io
 
 ---
 
