@@ -57,3 +57,21 @@ https://ichat-app-o4dd.onrender.com/
 
 ```bash
 git clone https://github.com/sumit-0307/IChat-App.git
+```
+
+2. **Install dependencies for both backend and frontend**
+```bash
+cd frontend && npm i
+cd ../backend && npm i
+```
+
+3. **Run the Server**
+```bash
+cd backend
+npm run dev
+```
+
+4. **Run the app** (run this command in the root folder)
+```bash
+npm run dev
+```
