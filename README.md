@@ -11,7 +11,7 @@ Welcome to **IChat** — a sleek, real-time chat app where users can connect ins
 ---
 # Demo 
 
-![IChat App](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-21.jpg](https://ichat-app-o4dd.onrender.com/))
+[IChat App](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-21.jpg](https://ichat-app-o4dd.onrender.com/))
 
 ## 🚀 Features
 
