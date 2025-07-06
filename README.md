@@ -46,9 +46,9 @@ Welcome to **IChat** — a sleek, real-time chat app where users can connect ins
 
 ## 📷 Screenshots
 
-| Chat UI | Dark Mode | Login |
+| Login | Sign Up | Themes Settings | Chat UI | Profile |
 |--------|-----------|-------|
-| ![Chat](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-24.jpg) | ![Dark](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-5.jpg) | ![Login](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-13.jpg) |
+| ![Login](https://github.com/user-attachments/assets/1e5bbe15-6783-489e-8dc5-83eb7d51d5cf)  | ![Sign Up](https://github.com/user-attachments/assets/74689a60-be25-48d4-88c8-3ed624182bbe) | ![Theme](https://github.com/user-attachments/assets/61e0be7b-e240-4c1a-9f56-8815dc0e9b44) | ![Chat UI](https://github.com/user-attachments/assets/871ff0ab-4edf-4bdc-93c4-7692bbf199d0) | ![Profile](https://github.com/user-attachments/assets/a67583c4-2293-4324-b85e-04101725776c) 
 
 ---
 
