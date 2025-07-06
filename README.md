@@ -1,6 +1,5 @@
 
-Hello Guys!
-I love cats ♥
+Hemlo Guys!
 
 ![IChat Banner](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-21.jpg)
 
