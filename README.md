@@ -47,7 +47,25 @@ Welcome to **IChat** — a sleek, real-time chat app where users can connect ins
 ## 📷 Screenshots
 
 | Login | Sign Up | Themes Settings | Chat UI | Profile |
-| ![Login](https://github.com/user-attachments/assets/1e5bbe15-6783-489e-8dc5-83eb7d51d5cf)  Login Page ![Sign Up](https://github.com/user-attachments/assets/74689a60-be25-48d4-88c8-3ed624182bbe) Sign Up Page ![Theme](https://github.com/user-attachments/assets/61e0be7b-e240-4c1a-9f56-8815dc0e9b44) Custom Themes Settings ![Chat UI](https://github.com/user-attachments/assets/871ff0ab-4edf-4bdc-93c4-7692bbf199d0) Chat UI with User Tabs ![Profile](https://github.com/user-attachments/assets/a67583c4-2293-4324-b85e-04101725776c) Profile Section that allows you to customize your profile picture
+| ![Login](https://github.com/user-attachments/assets/1e5bbe15-6783-489e-8dc5-83eb7d51d5cf)  
+
+Login Page 
+
+![Sign Up](https://github.com/user-attachments/assets/74689a60-be25-48d4-88c8-3ed624182bbe) 
+
+Sign Up Page 
+
+![Theme](https://github.com/user-attachments/assets/61e0be7b-e240-4c1a-9f56-8815dc0e9b44) 
+
+Custom Themes Settings 
+
+![Chat UI](https://github.com/user-attachments/assets/871ff0ab-4edf-4bdc-93c4-7692bbf199d0) 
+
+Chat UI with User Tabs 
+
+![Profile](https://github.com/user-attachments/assets/a67583c4-2293-4324-b85e-04101725776c) 
+
+Profile Section that allows you to customize your profile picture
 
 ---
 
