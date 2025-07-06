@@ -47,7 +47,7 @@ Welcome to **IChat** — a sleek, real-time chat app where users can connect ins
 ## 📷 Screenshots
 
 | Login | Sign Up | Themes Settings | Chat UI | Profile |
-| ![Login](https://github.com/user-attachments/assets/1e5bbe15-6783-489e-8dc5-83eb7d51d5cf)  
+![Login](https://github.com/user-attachments/assets/1e5bbe15-6783-489e-8dc5-83eb7d51d5cf)  
 
 Login Page 
 
